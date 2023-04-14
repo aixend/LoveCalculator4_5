@@ -1,4 +1,4 @@
-package com.geektech.lovecalculatormvvm.fragment
+package com.geektech.lovecalculators.fragment
 
 import android.os.Bundle
 import android.util.Log
@@ -8,8 +8,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
-import com.geektech.lovecalculatormvvm.databinding.FragmentCalculatorBinding
-import com.geektech.lovecalculatormvvm.viewmodel.LoveViewModel
+import com.geektech.lovecalculators.databinding.FragmentCalculatorBinding
+import com.geektech.lovecalculators.viewmodel.LoveViewModel
 
 class CalculatorFragment : Fragment() {
 

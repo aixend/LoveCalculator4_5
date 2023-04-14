@@ -1,9 +1,9 @@
-package com.geektech.lovecalculatormvvm.repository
+package com.geektech.lovecalculators.repository
 
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
-import com.geektech.lovecalculatormvvm.remote.LoveModel
-import com.geektech.lovecalculatormvvm.remote.LoveService
+import com.geektech.lovecalculators.remote.LoveModel
+import com.geektech.lovecalculators.remote.LoveService
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

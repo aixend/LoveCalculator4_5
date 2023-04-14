@@ -1,4 +1,4 @@
-package com.geektech.lovecalculatormvvm.remote
+package com.geektech.lovecalculators.remote
 
 import retrofit2.http.GET
 import retrofit2.http.Header

@@ -1,4 +1,4 @@
-package com.geektech.lovecalculatormvvm.remote
+package com.geektech.lovecalculators.remote
 
 import com.google.gson.annotations.SerializedName
 

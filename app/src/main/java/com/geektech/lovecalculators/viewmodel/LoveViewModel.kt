@@ -1,9 +1,9 @@
-package com.geektech.lovecalculatormvvm.viewmodel
+package com.geektech.lovecalculators.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
-import com.geektech.lovecalculatormvvm.remote.LoveModel
-import com.geektech.lovecalculatormvvm.repository.Repository
+import com.geektech.lovecalculators.remote.LoveModel
+import com.geektech.lovecalculators.repository.Repository
 
 
 class LoveViewModel : ViewModel() {

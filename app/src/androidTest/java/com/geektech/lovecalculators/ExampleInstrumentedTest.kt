@@ -1,4 +1,4 @@
-package com.geektech.lovecalculatormvvm
+package com.geektech.lovecalculators
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

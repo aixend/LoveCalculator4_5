@@ -1,4 +1,4 @@
-package com.geektech.lovecalculatormvvm
+package com.geektech.lovecalculators
 
 import org.junit.Test
 

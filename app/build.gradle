@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.geektech.lovecalculatormvvm'
+    namespace 'com.geektech.lovecalculators'
     compileSdk 33
 
     defaultConfig {
